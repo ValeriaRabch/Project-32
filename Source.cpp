@@ -44,7 +44,7 @@ int main() {
 
 	Line myarray1, myarray2, myarray3;
 
-	char array[100];;
+	char array[100];
 
 	cout << "Enter array 1 "; cin >> array;
 	myarray1.SetArr((char*)array);
